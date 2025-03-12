@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+requests
+google-generativeai
+pillow
+langchain
+langchain_groq
+langchain_community
+langchain_ollama
+beautifulsoup4
+faiss-cpu
+python-multipart
