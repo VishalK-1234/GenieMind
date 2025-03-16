@@ -71,7 +71,6 @@ Ensure you have Python installed (>=3.8) and [Ollama](https://ollama.com/) insta
 ## Contributors
 - **Vishal K** - Creator & Developer
 
-
 ## Feedback
 
 If you have any feedback, please reach me out at vishalk16801680@gmail.com
