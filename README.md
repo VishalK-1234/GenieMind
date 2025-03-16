@@ -59,15 +59,6 @@ Ensure you have Python installed (>=3.8) and [Ollama](https://ollama.com/) insta
    streamlit run client.py
    ```
 
-## API Endpoints
-| Method | Endpoint | Description |
-|--------|------------|-------------|
-| POST | `/essay` | Generates an essay |
-| POST | `/poem` | Generates a poem |
-| POST | `/chat` | Chatbot response (Trump persona) |
-| POST | `/search` | Amazon product search (RAG) |
-| POST | `/analyze-image` | Image analysis using Google Gemini |
-
 ## Usage
 1. Open Streamlit and select a feature from the sidebar.
 2. Input a topic/question or upload an image.
