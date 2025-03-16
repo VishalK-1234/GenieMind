@@ -73,6 +73,14 @@ Ensure you have Python installed (>=3.8) and [Ollama](https://ollama.com/) insta
 2. Input a topic/question or upload an image.
 3. Click submit and view the AI-generated response.
 
+## Demo
+
+![GenieMind Demo](demo.gif)
+
 ## Contributors
 - **Vishal K** - Creator & Developer
 
+
+## Feedback
+
+If you have any feedback, please reach me out at vishalk16801680@gmail.com
